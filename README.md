@@ -10,7 +10,7 @@
 
 - The attributes for the basic Shapes (elements) typically used in vector graphics applications, and Shapes, where appropriate, also have line styles, line thicknesses, line colours, fill colours, etc.
 
----- A Rectangle shape has four basic attributes that control the position and shape. x is the x position of the top led corner of the rectangle. y is the y position of the top led corner of the rectangle. width is the width of the rectangle. height is he height of the rectangle.
+-- A Rectangle shape has four basic attributes that control the position and shape. x is the x position of the top led corner of the rectangle. y is the y position of the top led corner of the rectangle. width is the width of the rectangle. height is he height of the rectangle.
 
 > A Circle shape has three basic attributes that control the position and size. r is the radius of the circle. cx is the x position of the centre of the circle. cy is the y position of the centre of the circle.
 
