@@ -8,7 +8,7 @@
 using System;
 using System.IO;
 
-namespace assignment_02_21252880
+namespace assignment_02
 {
     class Program
     {
