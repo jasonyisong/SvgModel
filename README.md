@@ -4,9 +4,9 @@
 
 - Coding at Maynooth University
 
-- Design and develop an object oriented soluCon in C# for maintaining a data model for a basic vector graphics applicaCon. The model include a means to represent a single two-dimensional (2D) canvas that maintains a list basic 2D shapes, e.g. rectangles, circles, etc. on a drawing canvas.
+- Design and develop an object oriented solution in C# for maintaining a data model for a basic vector graphics application. The model include a means to represent a single two-dimensional (2D) canvas that maintains a list basic 2D shapes, e.g. rectangles, circles, etc. on a drawing canvas.
 
-- No graphical user interface
+- No graphical user interface.
 
 - The attributes for the basic Shapes (elements) typically used in vector graphics applications, and Shapes, where appropriate, also have line styles, line thicknesses, line colours, fill colours, etc.
 
